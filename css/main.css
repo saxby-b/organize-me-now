@@ -151,7 +151,7 @@ footer {
   justify-content: space-between;
 
   /* Add the Flexbox property flex-flow: row wrap; to allow the flex child items to wrap. */
-  flex-flow: row-wrap;
+  flex-flow: row wrap;
 
   /* Add align-items: flex-start; so that the background adjusts to the height of the testimonial. */
   align-items: flex-start;
