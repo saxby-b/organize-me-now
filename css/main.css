@@ -197,6 +197,15 @@ footer {
     text-align: center;
   }
 
+  .services-content-wrapper {
+    justify-content: center;
+  }
+
+  h2.services {
+    width: 100%;
+    text-align: center;
+  }
+
   .services-description {
     width: 25%;
     flex-direction: column;
